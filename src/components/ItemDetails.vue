@@ -116,6 +116,11 @@ export default {
 .details-wrapper {
   width: 100%;
   height: 100%;
+  padding-bottom: 51px;
+  box-sizing: border-box;
+}
+.details {
+  padding-bottom: 51px;
 }
 .header {
   position: relative;
